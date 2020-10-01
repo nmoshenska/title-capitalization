@@ -1,3 +1,3 @@
-# README
+# title-cap
 
-A simple package for capitalizing text according to titles.  
+A simple package to capitalize text according to title capitalization conventions.
